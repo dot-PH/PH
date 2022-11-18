@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PHbrazilian
 - 👀 I’m interested in be a future developer
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning HTML5, CSS, JAVASCRIPT
 - 📫 How to reach me, e-mail: Teles.henrique4485@gmail.com  
 
 <!---
